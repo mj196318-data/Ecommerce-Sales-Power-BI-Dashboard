@@ -79,7 +79,7 @@ performance. It includes:
 revenue segments are approximately **40% Low Value, 38% Medium Value,
 and 22% High Value**.
 
-![Customer Analysis](screenshots/page-3-customer-analysis.png)
+![Customer Analysis](page-3-customer-analysis.png)
 
 ## Data Model
 
