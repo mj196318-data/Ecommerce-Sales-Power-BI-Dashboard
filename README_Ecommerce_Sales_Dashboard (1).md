@@ -40,7 +40,7 @@ total customers, and average order value. It also helps users explore
 sales and profit trends and compare performance across available
 business dimensions.
 
-![Executive Overview](screenshots/page-1-executive-overview.png)
+![Executive Overview](page-1-executive-overview.png)
 
 ### 2. Product & Category Analysis
 
@@ -59,7 +59,7 @@ category revenue, at approximately **₹55.38K**. - Fashion contributes
 approximately **28.08%** of category revenue.
 
 ![Product & Category
-Analysis](screenshots/page-2-product-category-analysis.png)
+Analysis](page-2-product-category-analysis.png)
 
 ### 3. Customer Analysis
 
